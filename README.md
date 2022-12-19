@@ -37,7 +37,7 @@ Watch Unlimited Movies, TV Shows, 90+ TV channels and ZEE5 Originals across 12 l
   <img src="https://i.ibb.co/8Db47JJ/image.png" />
   
   - Logout User
-  <img src="https://i.ibb.co/8Db47JJ/image.png" />
+  <img src="https://i.ibb.co/nn9HnY2/image.png" />
   
 
   
