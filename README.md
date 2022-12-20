@@ -22,6 +22,27 @@ This is A Clone Of Zee5 Which is A OTT Application To watch movies and web-serie
 ```
 # Responsibilities
 ```javascript
+Shivendra
+```
+
+  - Home Page & Video Pages
+  
+  - Home
+  <img src="https://i.ibb.co/kmD1GGb/ss1.png"/>
+  
+  - Video
+  <img src="https://i.ibb.co/2sdmh88/ss2.png" />
+  
+  - Responsiveness
+  <img src="https://i.ibb.co/YyTHy6z/ss3.png" />
+    
+    
+
+  
+
+
+# Responsibilities
+```javascript
 Karthik
 ```
 ## Authentication
@@ -54,4 +75,9 @@ Karthik
   <img src="https://i.ibb.co/nn9HnY2/image.png" />
   
 
-  
+  # To Run The App
+```
+- Clone git Repo Using git clone https://github.com/meshiv5/temporary-bag-6678
+- nmp i (to install all required packages)
+- npm run dev (To Run NextJS on DEV Mode)
+```
