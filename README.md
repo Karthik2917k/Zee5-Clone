@@ -1,5 +1,5 @@
-# Zee5-Clone
-Watch Unlimited Movies, TV Shows, 90+ TV channels and ZEE5 Originals across 12 languages. Watch Blockbuster Movies
+# temporary-bag-6678
+This is A Clone Of Zee5 Which is A OTT Application To watch movies and web-series online this is Full-Stack Project With Backend Code Including Admin Side Also
 
 # Contributors
 ```
@@ -9,7 +9,21 @@ Watch Unlimited Movies, TV Shows, 90+ TV channels and ZEE5 Originals across 12 l
 - Karthik Alakunta  
 ```
 
+# Tech Stacks
+
+```
+- Next js
+- Chakra - Ui
+- passport Oauth
+- CSS3
+- MongoDB - Atlas
+- express
+- Node js
+```
 # Responsibilities
+```javascript
+Karthik
+```
 ## Authentication
   - Google Oauth
   <img src="https://i.ibb.co/F881V4T/image.png" />
